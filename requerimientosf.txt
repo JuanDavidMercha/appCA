@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib>=3.7
-shapely
-contextily
+shapely>=2.0
+contextily>=1.3
 imageio
 pytz
 mplcursors
